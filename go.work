@@ -3,4 +3,5 @@ go 1.21.3
 use (
 	./1-trebuchet
 	./2-cube-conundrum
+	./3-gear-ratios
 )
