@@ -5,4 +5,5 @@ use (
 	./2-cube-conundrum
 	./3-gear-ratios
 	./4-scratchcards
+	./5-seeds
 )
