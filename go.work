@@ -6,4 +6,5 @@ use (
 	./3-gear-ratios
 	./4-scratchcards
 	./5-seeds
+	./6-wait
 )
