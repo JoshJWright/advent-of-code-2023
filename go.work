@@ -7,4 +7,6 @@ use (
 	./4-scratchcards
 	./5-seeds
 	./6-wait
+	./7-camel
+	./8-maps
 )
