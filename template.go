@@ -1,7 +1,11 @@
 package main
 
-import "utils"
+import (
+	"strings"
+	"utils"
+)
 
 func main() {
-	utils.LoadString("input.txt")
+	input := utils.LoadString("input.txt")
+	lines := strings.Split(input, "\n")
 }
